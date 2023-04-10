@@ -1,0 +1,19 @@
+.slider-container2{
+    margin: 0;
+    overflow-x: hidden ;
+}
+.slider2{
+    width: 190%;
+    display: flex;
+    cursor: grab;
+    gap: 20px;
+}
+.item2{
+    height: 3rem;
+    width: 200px;
+
+    padding: 10px;
+    h3{
+        width: 120px;
+    }
+}

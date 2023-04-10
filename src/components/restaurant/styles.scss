@@ -1,0 +1,10 @@
+.card{
+    width: 150px;
+    min-height: 100px;
+    img{
+        width: 100% !important;
+        height: 100px !important;  
+        border-radius: 15px;
+        object-fit: cover;
+    }
+}
